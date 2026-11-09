@@ -5,10 +5,10 @@ A small floating countdown that stays above your games and alerts you for adhan 
 
 ## ⬇️ تحميل البرنامج / Download
 
-**[تحميل Estethkar.exe / Download Estethkar.exe](https://github.com/NuClear-Mind/estethkar-releases/releases/latest/download/Estethkar.exe)**
+**[تحميل Estethkar-Setup.exe / Download Estethkar-Setup.exe](https://github.com/NuClear-Mind/estethkar-releases/releases/latest/download/Estethkar-Setup.exe)**
 
-شغّل الملف بعد التحميل. ما يحتاج تثبيت.
-Run the file after downloading. No installation needed.
+شغّل الملف، واختر المكان اللي تبيه. يتم تثبيت البرنامج مع ملف إلغاء التثبيت في نفس المجلد.
+Run the file and choose where to install. The app and its uninstaller are put in one folder.
 
 ## ملاحظات / Notes
 
