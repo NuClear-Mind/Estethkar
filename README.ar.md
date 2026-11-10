@@ -8,7 +8,7 @@
 
 [English](README.md) | **العربية**
 
-<img src="docs/images/panel-ar.png" alt="العدّ التنازلي للصلاة القادمة" width="48%"> <img src="docs/images/panel-iqama.png" alt="عدّاد الإقامة بالذهبي" width="48%">
+<img src="docs/images/panel-ar.png" alt="العدّ التنازلي للصلاة القادمة" width="48%"> <img src="docs/images/panel-iqama-ar.png" alt="عدّاد الإقامة بالذهبي" width="48%">
 
 </div>
 
