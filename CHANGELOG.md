@@ -2,6 +2,9 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.18
+- The black look is now a softer charcoal grey instead of pure black.
+
 ## 1.0.17
 - New: a **light** look for the settings window (Settings > General > Appearance), next to Default and Black.
 
