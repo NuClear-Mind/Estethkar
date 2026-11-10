@@ -2,6 +2,11 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.15
+- Lighter. The app file is less than half the size (about 56 MB down to 26 MB) and idle memory use is about a quarter of before.
+- The settings window now frees its memory when you close it, and the city list is no longer kept in memory.
+- Alert sounds use Windows' own player instead of a bundled media library.
+
 ## 1.0.14
 - The floating panel now raises itself about three times a second, so a game that goes full screen no longer hides it. If a window still covers it, a line is written to `overlay.log` next to the app.
 
