@@ -2,6 +2,9 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.17
+- New: a **light** look for the settings window (Settings > General > Appearance), next to Default and Black.
+
 ## 1.0.16
 - New: **Reminders** tab. Write anything you want to remember, with an optional time and repeat (once, every day, chosen days, or every few minutes).
 - New: an option to make the whole floating panel fade in and out smoothly before adhan and iqama (on by default).
