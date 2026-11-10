@@ -2,6 +2,9 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.14
+- The floating panel now raises itself about three times a second, so a game that goes full screen no longer hides it. If a window still covers it, a line is written to `overlay.log` next to the app.
+
 ## 1.0.13
 - Fixed the crash right after an in-app update ("DLL load failed while importing QtWidgets").
 
