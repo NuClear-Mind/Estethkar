@@ -22,10 +22,11 @@
 
 - **Counter over your games.** A horizontal or vertical capsule, or a full panel. Size from 50% to 250%, movable with the mouse. `Shift + Alt + P` shows or hides it.
 - **Iqama stands out.** The iqama countdown is gold and labelled, so it is never mistaken for the adhan.
-- **Quiet heads-up.** The dot blinks 3 seconds before adhan and 5 seconds before iqama, silently.
+- **Quiet heads-up.** The dot blinks 3 seconds before adhan and 5 seconds before iqama, silently. An option makes the **whole panel fade in and out smoothly** instead.
 - **Alert and sound, always.** A banner at the top or a card in a corner, with four built-in sounds or your own WAV file. They work while a game is running.
 - **Accurate times, offline.** Calculated on your PC for your city (Umm al-Qura). You can shift each prayer by seconds to match your mosque.
-- **Arabic and English,** with cities searchable in both.
+- **Your own reminders.** Write anything you want to remember, with an optional time and repeat: once, every day, on chosen days, or every few minutes.
+- **Arabic and English,** with cities searchable in both. Switch with one button, and pick a **default or black** look for the settings.
 - **Starts with Windows,** updates itself from inside the app with one click, and uninstalls completely from the settings.
 
 <p align="center">
@@ -33,7 +34,11 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/settings-en.png" alt="Settings" width="48%"> <img src="docs/images/settings-ar.png" alt="Settings in Arabic" width="48%">
+  <img src="docs/images/settings-en.png" alt="Settings" width="48%"> <img src="docs/images/settings-black-en.png" alt="Settings, black look" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/images/reminders-en.png" alt="Reminders" width="48%"> <img src="docs/images/reminders-ar.png" alt="Reminders in Arabic" width="48%">
 </p>
 
 ## Games

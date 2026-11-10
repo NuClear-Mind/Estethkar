@@ -2,6 +2,13 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.16
+- New: **Reminders** tab. Write anything you want to remember, with an optional time and repeat (once, every day, chosen days, or every few minutes).
+- New: an option to make the whole floating panel fade in and out smoothly before adhan and iqama (on by default).
+- New: a black look for the settings window (Settings > General).
+- Language is now a button instead of a list. Lists, numbers and sliders no longer change when you scroll the page with the mouse wheel.
+- The check-for-updates button has a turning arrow, a download line shows the progress of an update, and the uninstall button moved to the bottom in red.
+
 ## 1.0.15
 - Lighter. The app file is less than half the size (about 56 MB down to 26 MB) and idle memory use is about a quarter of before.
 - The settings window now frees its memory when you close it, and the city list is no longer kept in memory.
