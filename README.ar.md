@@ -77,7 +77,7 @@
 
 ## الرخصة والشكر
 
-MIT. حقوق النشر (c) 2026 Turky ALrowaily. التفاصيل في [LICENSE](LICENSE). الكود المصدري: [Estethkar-source](https://github.com/NuClear-Mind/Estethkar-source).
+MIT. حقوق النشر (c) 2026 Turky ALrowaily. التفاصيل في [LICENSE](LICENSE).
 
 بيانات المدن من [GeoNames](https://www.geonames.org/) (المدن التي عدد سكانها 15,000 أو أكثر)، بترخيص [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
