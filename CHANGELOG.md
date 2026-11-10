@@ -2,6 +2,11 @@
 
 **English** | [العربية](CHANGELOG.ar.md)
 
+## 1.0.19
+- The floating panel can no longer be dragged outside the screen.
+- **Move with mouse** is now a switch: it stays on, so you can drag as many times as you like, until you press the button again.
+- Adhan correction (earlier or later) and the wait before the iqama are now set in **minutes and seconds**.
+
 ## 1.0.18
 - The black look is now a softer charcoal grey instead of pure black.
 
