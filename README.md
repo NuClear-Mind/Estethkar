@@ -10,12 +10,12 @@
 
 ## ⬇️ تحميل / Download
 
-**[تحميل المثبّت / Download the installer: Estethkar-Setup.exe](https://github.com/NuClear-Mind/estethkar-releases/releases/latest/download/Estethkar-Setup.exe)**
+**[تحميل المثبّت / Download the installer: Estethkar-Setup.exe](https://github.com/NuClear-Mind/Estethkar/releases/latest/download/Estethkar-Setup.exe)**
 
 - ملف واحد. يختار لك مجلد ويضيف اختصار على سطح المكتب ويشغّل البرنامج.
   One file. It picks a folder, adds a desktop shortcut and starts the app.
-- بدون تثبيت؟ حمّل `Estethkar.exe` من [صفحة الإصدارات](https://github.com/NuClear-Mind/estethkar-releases/releases/latest) وشغّله مباشرة.
-  No installer? Download `Estethkar.exe` from the [releases page](https://github.com/NuClear-Mind/estethkar-releases/releases/latest) and run it.
+- بدون تثبيت؟ حمّل `Estethkar.exe` من [صفحة الإصدارات](https://github.com/NuClear-Mind/Estethkar/releases/latest) وشغّله مباشرة.
+  No installer? Download `Estethkar.exe` from the [releases page](https://github.com/NuClear-Mind/Estethkar/releases/latest) and run it.
 - يحتاج Windows 10 أو 11.
   Requires Windows 10 or 11.
 
@@ -93,8 +93,8 @@ Settings → General → **Uninstall Estethkar**, or Windows Settings → Apps. 
 
 ## 🐞 مشكلة أو اقتراح / Problems and ideas
 
-افتح [Issue](https://github.com/NuClear-Mind/estethkar-releases/issues/new/choose) واكتب رقم الإصدار واسم اللعبة ووضع الشاشة فيها.
-Open an [issue](https://github.com/NuClear-Mind/estethkar-releases/issues/new/choose) with the version, the game and its display mode.
+افتح [Issue](https://github.com/NuClear-Mind/Estethkar/issues/new/choose) واكتب رقم الإصدار واسم اللعبة ووضع الشاشة فيها.
+Open an [issue](https://github.com/NuClear-Mind/Estethkar/issues/new/choose) with the version, the game and its display mode.
 
 سجل التغييرات / Changelog: [CHANGELOG.md](CHANGELOG.md)
 
