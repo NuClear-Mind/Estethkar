@@ -13,16 +13,14 @@ A small floating countdown that stays above your games and alerts you for adhan 
 Run the file and choose where to install. The app and its uninstaller are put in one folder.
 
 ## ملاحظات / Notes
-
-- ويندوز قد يعرض تحذير SmartScreen أول مرة، اختر **More info** ثم **Run anyway**.
+ويندوز قد يعرض لك تحذير SmartScreen أول مرة, أختر **More info** ثم **Run anyway**.
 
    Windows may show a SmartScreen warning the first time. Choose **More info**, then **Run anyway**.
-- الإعدادات تُحفظ بجانب الملف.
-
-  Settings are saved next to the file.
-- البرنامج يفحص هذا الريبو عن الإصدارات الجديدة ويعرض لك زر التحديث.
+  
+  البرنامج يفحص هذا الريبو عن الإصدارات الجديدة ويعرض لك زر التحديث.
 
    The app checks this repository for new versions and shows an update button.
+  
 
 ## الرخصة / License
 
