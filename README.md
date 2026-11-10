@@ -75,6 +75,6 @@ Changelog: [CHANGELOG.md](CHANGELOG.md)
 
 ## License and credits
 
-MIT. Copyright (c) 2026 Turky ALrowaily. See [LICENSE](LICENSE).
+MIT. Copyright (c) 2026 Turky ALrowaily. See [LICENSE](LICENSE). Source code: [Estethkar-source](https://github.com/NuClear-Mind/Estethkar-source).
 
 City data comes from [GeoNames](https://www.geonames.org/) (cities with 15,000 people or more), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
