@@ -8,9 +8,6 @@ A small floating countdown that stays above your games and alerts you for adhan 
 
 **[تحميل Estethkar-Setup.exe / Download Estethkar-Setup.exe](https://github.com/NuClear-Mind/estethkar-releases/releases/latest/download/Estethkar-Setup.exe)**
 
-شغّل الملف، واختر المكان اللي تبيه. يتم تثبيت البرنامج مع ملف إلغاء التثبيت في نفس المجلد.
-
-Run the file and choose where to install. The app and its uninstaller are put in one folder.
 
 ## ملاحظات / Notes
 ويندوز قد يعرض لك تحذير SmartScreen أول مرة, أختر **More info** ثم **Run anyway**.
